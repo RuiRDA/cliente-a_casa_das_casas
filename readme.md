@@ -1,0 +1,1 @@
+[Lista de Dúvidas](esclarecimentos_de_ia_com_as_equipas/lista_de_duvidas.md)
