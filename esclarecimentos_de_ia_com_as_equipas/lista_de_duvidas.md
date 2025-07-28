@@ -80,9 +80,6 @@ Vamos partir do princípio de que todos os comerciais têm
 
 [Duvida de ajustar imagens](6-ajustar_imagens/duvida_ajustar_imagens.md)
 
-Ou um prompt para o chatgpt 
-
-Eles vão enviar fotos de antes e depois para testarmos
 
 ----------------------------------
 
@@ -92,7 +89,6 @@ Eles vão enviar fotos de antes e depois para testarmos
 
 [Duvida de vídeos com IA](7-vídeos_com_IA/duvida_vídeos_com_IA.md)
 
-Fazer um vídeo de fotos meio animado 
 
 
 ------------------------
