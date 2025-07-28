@@ -24,7 +24,7 @@ Temos atualmente 12 comerciais + 1 (Catarina): Miguel; José; Venâncio; Alexand
 
  
 
-Em que para fazer a escalte temos de ter em conta os critérios:
+Em que para fazer a escala temos de ter em conta os critérios:
 
  
 
@@ -38,3 +38,57 @@ Em que para fazer a escalte temos de ter em conta os critérios:
 
 5.º a Catarina faz apenas 1 a 2 serviços por semana, não trabalha aos fins de semana (folga) e não faz serviço de prevenção.  
 ```
+
+
+
+
+
+## Prompt:
+
+```markdown
+És um assistente especialista em planeamento de escalas de trabalho. O teu objetivo é gerar uma **escala semanal inicial** para uma equipa de comerciais, tendo em conta férias, folgas e restrições específicas.
+
+Antes de gerar a escala, deves **pensar cuidadosamente** sobre os seguintes pontos:
+1. Identifica todas as restrições individuais (dias de férias, folgas, indisponibilidades, serviços de prevenção).
+2. Aplica as regras gerais: máximo de 5 dias consecutivos de trabalho por comercial e distribuição equilibrada da carga de trabalho.
+3. Confirma a semana de referência.
+
+De seguida, gera a escala no seguinte **formato fixo** (usar sempre este modelo):
+
+| Comercial | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
+|-----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Nome A    |  W  |  W  |  F  |  W  |  W  |  L  |  W  |
+| Nome B    | ... | ... | ... | ... | ... | ... | ... |
+
+Legenda:
+- `W` = Trabalho
+- `F` = Férias
+- `L` = Folga / Dia livre
+- `P` = Prevenção ou outro serviço específico
+
+Após a tabela, apresenta um pequeno **Resumo de Critérios**, onde explicas:
+- Que restrições foram aplicadas a cada colaborador.
+- Como garantiste o equilíbrio na distribuição dos turnos.
+
+---
+
+### Preenche os dados antes de executar:
+
+- **Semana de referência**: [ex.: 29/07/2025 – 04/08/2025]  
+- **Colaboradores e restrições** (exemplo):  
+  - João: Férias na segunda e terça-feira  
+  - Ana: Folga obrigatória ao sábado; de prevenção à quarta-feira  
+  - Luís: Indisponível na sexta-feira  
+  - Carla: Sem restrições  
+  - …
+
+---
+Objetivo: Geração de uma escala de trabalho inicial, equilibrada, funcional e coerente com as restrições.
+
+Por favor, gera a escala de acordo com os requisitos.
+
+```
+
+
+
+*Este prompt pode ser utilizado em qualquer assistente de IA,sendo que se for utilizado no [Gemini](https://gemini.google.com/app) é possivel  exportar a tabela para um google sheets.*
