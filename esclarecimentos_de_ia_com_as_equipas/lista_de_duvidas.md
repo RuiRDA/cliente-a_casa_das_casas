@@ -7,11 +7,10 @@
 | 5 - Gravar, transcrever e resumir chamadas com IA | 📝 por fazer |
 | 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 📝 por fazer |
 | 7 - Vídeos com IA | ⏳ em andamento |
-| 8 - O chatgpt tem a informação até quando? | 📝 por fazer |
-| 9 - Pesquisa de Mercado | 📝 por fazer |
-| 10 - Minuta para o estudo de mercado | 📝 por fazer |
-| 11 - Saber número de transações feitas | 📝 por fazer |
-| 12 - Escrever emails com a resposta do Crédito | 📝 por fazer |
+| 8 - Pesquisa de Mercado | 📝 por fazer |
+| 9 - Minuta para o estudo de mercado | 📝 por fazer |
+| 10 - Saber número de transações feitas | 📝 por fazer |
+| 11 - Escrever emails com a resposta do Crédito | 📝 por fazer |
 
 *A Casa das Casas* 
 
@@ -51,11 +50,7 @@
 
 [Duvida descrição de Imóveis](4-descrições_de_imóveis/duvida_descrição_imóveis.md)
 
-Minutas base para fazer descrições de anúncios de imóveis 
 
-Ajudá-los a como fazer as descrições de imóveis, com base numa minuta preenchida 
-
-Ele quer um prompt igual para todos os comerciais usarem o mesmo prompt, para ficar homogéneo. Com a estrutura x, etc. 
 
 
 -----------------------------
@@ -65,11 +60,7 @@ Ele quer um prompt igual para todos os comerciais usarem o mesmo prompt, para fi
 
 [Duvida de resumir chamadas](5-resumir_chamadas/duvida_resumir_chamadas.md)
 
-Vendas: há alguma forma de captar as chamadas, passá-las para texto e resumi-las? 
 
-Fazer os resumos das conversas com os clientes. 
-
-Vamos partir do princípio de que todos os comerciais têm 
 
 
 --------------------------------
@@ -94,28 +85,19 @@ Vamos partir do princípio de que todos os comerciais têm
 ------------------------
 
 
-### 8 - O chatgpt tem a informação até quando? 
+### 8 - Pesquisa de Mercado
 
 
------------------
+[Duvida de pesquisa de mercado](8-pesquisa_de_mercado/duvida_pesquisa_de_mercado.md)
 
-
-### 9 - Pesquisa de Mercado
-
-
-[Duvida de pesquisa de mercado](9-pesquisa_de_mercado/duvida_pesquisa_de_mercado.md)
-
-Eles precisam de saber quantas casas estão à venda e os preços (pesquisa de mercado) - casasapo, Imovirtual e idealista 
-
-Dá para fazer no gemini? No chatgpt? 
 
 -------------------------
 
-### 10 - Minuta para o estudo de mercado
+### 9 - Minuta para o estudo de mercado
 
 
-[Duvida de minuta estudo de mercado](10-minuta_estudo_mercado/duvida_minuta_estudo_mercado.md)
-Ter uma minuta para o estudo de mercado. O que for para enviar para o proprietário, para fazer uma apresentação mais bonitinha e composta para o proprietário (mas é para uma fase mais à frente)
+[Duvida de minuta estudo de mercado](9-minuta_estudo_mercado/duvida_minuta_estudo_mercado.md)
+
 
 
 
@@ -124,12 +106,12 @@ Ter uma minuta para o estudo de mercado. O que for para enviar para o proprietá
 
 -----------------
 
-### 11 - Saber número de transações feitas
+### 10 - Saber número de transações feitas
 
 
-[Duvida de número transações](11-número_transações/duvida_número_transações.md)
+[Duvida de número transações](10-número_transações/duvida_número_transações.md)
 
-Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas às vezes é pago) 
+
 
 
 
@@ -139,33 +121,15 @@ Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas 
 
 
 
-### 12 - Escrever emails com a resposta do Crédito
+### 11 - Escrever emails com a resposta do Crédito
 
 
-[Duvida de emails crédito](12-emails_crédito/duvida_emails_crédito.md)
-*Área dos financiamentos*
-
-Intermediação de crédito 
-
-Fazer uns email tipo de aprovação do banco 
-Recusa de um financiamento (email tipo a comunicar a recusa do banco ao cliente) 
-
-Email tipo com as avaliações e os valores. Avançar para formalização de processo. 
+[Duvida de emails crédito](11-emails_crédito/duvida_emails_crédito.md)
 
 
-Fazer um prompt para isto
 
-Caso o credito não seja aprovado, já não existe o documento "fin"
+------------
 
-
-Fazer um email formal para mostrar ao vendedor que o credito não foi aprovado 
-
-
-No email só tem de dizer o valor que não foi aprovado, quanto é que foi aprovado (se foi algum), e justificar porque é que o credito não foi aprovado 
-
-Ela vai enviar o email de ontem para ter uma ideia do que ela tinha de dizer ao cliente.
-
-----------------------
 
 
 Um programa que leia as simulações todas e etc, e é para depois as nossas automações.
