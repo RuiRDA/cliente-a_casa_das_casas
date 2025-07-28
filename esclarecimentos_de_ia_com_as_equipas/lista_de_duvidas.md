@@ -7,10 +7,10 @@
 | 5 - Gravar, transcrever e resumir chamadas com IA | 📝 por fazer |
 | 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 📝 por fazer |
 | 7 - Vídeos com IA | ⏳ em andamento |
-| 8 - Pesquisa de Mercado | 📝 por fazer |
+| 8 - Pesquisa de Mercado | 🔍 feito e a aguardar revisão |
 | 9 - Minuta para o estudo de mercado | 📅 para uma próxima fase |
 | 10 - Saber número de transações feitas | 🔍 feito e a aguardar revisão |
-| 11 - Escrever emails com a resposta do Crédito | 📝 por fazer |
+| 11 - Escrever emails com a resposta do Crédito | 🔍 feito e a aguardar revisão |
 
 *A Casa das Casas* 
 
