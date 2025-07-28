@@ -26,18 +26,10 @@
 ---------
 
 
-### 2 - Qual é a melhor forma de questionar o chat em questões de legislação.
+### 2 - Questões de legislação
 
 
 [Duvida de questões de legislação](2-questões_de_legislação/duvida_questões_de_legislação.md)
-
-
-Exemplo: que área de determinado terreno pode ficar isenta do direito de preferência 
-
-
-Como pedir minutas. Exemplo: minuta da carta dos confinantes aos rústicos 
-
-Obter o prompt para saber estas coisas 
 
 
 
@@ -83,7 +75,7 @@ Vamos partir do princípio de que todos os comerciais têm
 --------------------------------
 
 
-### 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis.
+### 6 - Fotografias dos imóveis.
 
 
 [Duvida de ajustar imagens](6-ajustar_imagens/duvida_ajustar_imagens.md)
@@ -95,7 +87,7 @@ Eles vão enviar fotos de antes e depois para testarmos
 ----------------------------------
 
 
-### 7 - Vídoes com IA
+### 7 - Vídeos com IA
 
 
 [Duvida de vídeos com IA](7-vídeos_com_IA/duvida_vídeos_com_IA.md)
