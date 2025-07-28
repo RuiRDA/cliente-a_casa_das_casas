@@ -45,10 +45,6 @@ Apresenta os resultados numa tabela como esta:
 
 *Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
 
-
-
-*Nota: Experimentar utilizar este prompt com a IA https://manus.im*
-
-
+*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
 **Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**

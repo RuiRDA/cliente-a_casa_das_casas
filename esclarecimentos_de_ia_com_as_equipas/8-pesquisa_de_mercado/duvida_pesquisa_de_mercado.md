@@ -68,13 +68,10 @@ Apresenta os resultados organizados por portal, em tabelas com a seguinte estrut
 - A resposta deve ser clara, estruturada e acionável, com **links clicáveis e organizados por portal**.
 
 ```
+
 *Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
 
-
-
-*Nota: Experimentar utilizar este prompt com a IA https://manus.im*
-
-
+*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
 **Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
 
@@ -124,10 +121,6 @@ O objetivo é realizar uma **Análise Comparativa de Mercado (ACM)** para um im�
 
 *Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
 
-
-
-*Nota: Experimentar utilizar este prompt com a IA https://manus.im*
-
-
+*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
 **Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
