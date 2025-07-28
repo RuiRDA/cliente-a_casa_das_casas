@@ -9,7 +9,7 @@
 | 7 - Vídeos com IA | ⏳ em andamento |
 | 8 - Pesquisa de Mercado | 📝 por fazer |
 | 9 - Minuta para o estudo de mercado | 📅 para uma próxima fase |
-| 10 - Saber número de transações feitas | 📝 por fazer |
+| 10 - Saber número de transações feitas | 🔍 feito e a aguardar revisão |
 | 11 - Escrever emails com a resposta do Crédito | 📝 por fazer |
 
 *A Casa das Casas* 

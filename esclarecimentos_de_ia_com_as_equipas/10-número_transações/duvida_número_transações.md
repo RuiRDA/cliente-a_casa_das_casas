@@ -47,6 +47,8 @@ Apresenta os resultados numa tabela como esta:
 
 
 
+*Nota: Experimentar utilizar este prompt com a IA https://manus.im*
+
 
 
 **Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
