@@ -1,11 +1,18 @@
-# 2 - Qual é a melhor forma de questionar o chat em questões de legislação.
+# 2 - Questões de legislação
 
 
 **Duvida:**
 
-Exemplo: que área de determinado terreno pode ficar isenta do direito de preferência 
+
+Como pedir ao chatGPT para fazer minutas ou outros documentos legais?
 
 
-Como pedir minutas. Exemplo: minuta da carta dos confinantes aos rústicos 
+*Contexto, o objectivo é acelarar a criação de alguns documentos que depois vão ser revistos por solicitadores ou advogados.*
 
-Obter o prompt para saber estas coisas 
+*Exemplo:* 
+```
+Fazer uma minuta de reclamação cadastral.
+```
+
+
+Como construir um Prompt ou conversa para fazer estas coisas ?
