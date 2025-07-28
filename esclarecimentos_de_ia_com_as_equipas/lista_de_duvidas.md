@@ -1,16 +1,35 @@
+| Tarefa | Estado |
+|---|---|
+| 1 - Branqueamento de capitais | ✅ concluído |
+| 2 - Qual é a melhor forma de questionar o chat em questões de legislação. | 📝 por fazer |
+| 3 - Escalas de trabalho | 📝 por fazer |
+| 4 - Criar descrições de imóveis (adiada/cancelada) | ❌ adiado |
+| 5 - Gravar, transcrever e resumir chamadas com IA | 📝 por fazer |
+| 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 📝 por fazer |
+| 7 - Vídeos com IA | ⏳ em andamento |
+| 8 - O chatgpt tem a informação até quando? | 📝 por fazer |
+| 9 - Pesquisa de Mercado | 📝 por fazer |
+| 10 - Minuta para o estudo de mercado | 📝 por fazer |
+| 11 - Saber número de transações feitas | 📝 por fazer |
+| 12 - Escrever emails com a resposta do Crédito | 📝 por fazer |
+
 *A Casa das Casas* 
 
 # Duvidas:
 
 
-### 1 - Saber se é possível saber pesquisar pessoas se elas estão em risco de branqueamento de capitais
+### 1 - Branqueamento de capitais
 
-[Prompt de branqueamento de capitais](branqueamento_de_capitais/prompt_branqueamento-de-capitais.md)
+
+[Duvida de branqueamento de capitais](1-branqueamento_de_capitais/duvida_branqueamento_de_capitais.md)
 
 ---------
 
 
-### 2 - Qual é a melhor forma de questionar o chat em questões de legislação. 
+### 2 - Qual é a melhor forma de questionar o chat em questões de legislação.
+
+
+[Duvida de questões de legislação](2-questões_de_legislação/duvida_questões_de_legislação.md)
 
 
 Exemplo: que área de determinado terreno pode ficar isenta do direito de preferência 
@@ -30,13 +49,15 @@ Obter o prompt para saber estas coisas
 ### 3 - Escalas de trabalho 
 
 
-[Duvida das Escalas de trabalho](Planeamento_escala_semanal/duvida.md)
+[Duvida das Escalas de trabalho](3-escala_semanal/duvida_escala_semanal.md)
 
 
 
 ----------------------------
 
 ### 4 - Criar descições de imóveis com base nas minutas
+
+[Duvida descrição de Imóveis](4-descrições_de_imóveis/duvida_descrição_imóveis.md)
 
 Minutas base para fazer descrições de anúncios de imóveis 
 
@@ -47,7 +68,10 @@ Ele quer um prompt igual para todos os comerciais usarem o mesmo prompt, para fi
 
 -----------------------------
 
-### 5 - Gravar, transcrever e resumir chamadas com IA 
+### 5 - Gravar, transcrever e resumir chamadas com IA
+
+
+[Duvida de resumir chamadas](5-resumir_chamadas/duvida_resumir_chamadas.md)
 
 Vendas: há alguma forma de captar as chamadas, passá-las para texto e resumi-las? 
 
@@ -59,7 +83,10 @@ Vamos partir do princípio de que todos os comerciais têm
 --------------------------------
 
 
-### 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. 
+### 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis.
+
+
+[Duvida de ajustar imagens](6-ajustar_imagens/duvida_ajustar_imagens.md)
 
 Ou um prompt para o chatgpt 
 
@@ -69,6 +96,9 @@ Eles vão enviar fotos de antes e depois para testarmos
 
 
 ### 7 - Vídoes com IA
+
+
+[Duvida de vídeos com IA](7-vídeos_com_IA/duvida_vídeos_com_IA.md)
 
 Fazer um vídeo de fotos meio animado 
 
@@ -84,6 +114,9 @@ Fazer um vídeo de fotos meio animado
 
 ### 9 - Pesquisa de Mercado
 
+
+[Duvida de pesquisa de mercado](9-pesquisa_de_mercado/duvida_pesquisa_de_mercado.md)
+
 Eles precisam de saber quantas casas estão à venda e os preços (pesquisa de mercado) - casasapo, Imovirtual e idealista 
 
 Dá para fazer no gemini? No chatgpt? 
@@ -91,6 +124,9 @@ Dá para fazer no gemini? No chatgpt?
 -------------------------
 
 ### 10 - Minuta para o estudo de mercado
+
+
+[Duvida de minuta estudo de mercado](10-minuta_estudo_mercado/duvida_minuta_estudo_mercado.md)
 Ter uma minuta para o estudo de mercado. O que for para enviar para o proprietário, para fazer uma apresentação mais bonitinha e composta para o proprietário (mas é para uma fase mais à frente)
 
 
@@ -101,6 +137,9 @@ Ter uma minuta para o estudo de mercado. O que for para enviar para o proprietá
 -----------------
 
 ### 11 - Saber número de transações feitas
+
+
+[Duvida de número transações](11-número_transações/duvida_número_transações.md)
 
 Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas às vezes é pago) 
 
@@ -113,6 +152,9 @@ Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas 
 
 
 ### 12 - Escrever emails com a resposta do Crédito
+
+
+[Duvida de emails crédito](12-emails_crédito/duvida_emails_crédito.md)
 *Área dos financiamentos*
 
 Intermediação de crédito 
@@ -145,136 +187,3 @@ Um programa que leia as simulações todas e etc, e é para depois as nossas aut
 -----------------------
 
 
-
-
-------------------
----------------
-------------------
-----------------------
-
-
-Olá Sandra, tudo bem ?
-
-Desde a nossa reunião ficamos de receber alguns exemplo para ajudar entender melhor a vossas dificuldades e encontrar as melhores soluções de IA.
-
-Já recebemos o exemplo das fotos de imóveis que querem clarear/melhorar com IA.
-
-Estamos ainda a aguardar a que nos enviem dos seguintes tópicos e respetivos exemplos:
-
-Planeamento inicial da escala semanal:
-- Exemplos da escala dos comerciais. (Ivone)
-
-Descrições para imóveis:
- - Exemplo das minutas para escrever descrições.
-
-Usar o chatGPT para fazer o estudo de mercado:
-- Exemplo de estudo de mercado.
-
-Emails formais para o resultado do crédito:
-- Exemplo dos emails de resposta de crédito
-
-------------------
----------------
-------------------
-----------------------
-
-
-
-
-Chat GPT - A Casa das Casas
-Caixa de entrada
-Sandra Esteves - Grupo das Casas
-	
-quarta, 16/07, 17:07 (há 11 dias)
-	
-para mim, isabel.galvao
-
-Boa tarde Rui e Nini
-
- 
-
-Em relação ao whatsapp venho então dar resposta:
-
- 
-
- 
-
-Planeamento inicial da escala semanal:
-
-- Exemplos da escala dos comerciais. (Ivone)
-
- 
-
- 
-
-Temos atualmente 12 comerciais + 1 (Catarina): Miguel; José; Venâncio; Alexandre; André; Cláudio; Nuno; Sandro; Cátia; Marco; Inês e Margarida.
-
- 
-
-Em que para fazer a escalte temos de ter em conta os critérios:
-
- 
-
-1.º verificar férias e folgas de cada comercial;
-
-2º os comerciais Venâncio e José fazem serviço de Serviço e Prevenção às terças-feiras; André e Alexandre às segundas-feiras; Sandro e Marco às quartas-feiras;
-
-3-º o Cláudio e José devem fazer os serviços e prevenções com os elementos das suas equipas
-
-4.º não podem estar de serviço/prevenção antes das folgas
-
-5.º a Catarina faz apenas 1 a 2 serviços por semana, não trabalha aos fins de semana (folga) e não faz serviço de prevenção.  
-
- 
-
- 
-
-Descrições para imóveis:
-
-- Exemplo das minutas para escrever descrições.
-
- 
-
-Ricardo pediu para adiarmos – aguardar mais um pouco.
-
- 
-
- --------------------------------------------------
-
-Usar o chatGPT para fazer o estudo de mercado:
-
-- Exemplo de estudo de mercado.
-
- 
-
- 
-
-Gostaríamos de saber o que está à venda na Ericeira? Áreas? Moradias com piscina? T3 com vista de mar?
-
- 
-
-De forma a compararmos uns com os outros.
-
- 
-------------------------------
-Emails formais para o resultado do crédito:
-
-- Exemplo dos emails de resposta de crédito
-
- 
-
-Boa tarde __________,
-
-Esperamos que esta mensagem a encontre bem!
-
-Agradecemos a confiança depositada no nosso trabalho durante a análise da vossa viabilidade de crédito para aquisição de Habitação Própria Permanente com Financiamento a 100% .
-
-Conforme mencionado anteriormente, enviamos simulações com base nas informações fornecidas, para um financiamento no valor de 280.0000€, que foram encaminhadas aos bancos nossos parceiros para aprovação.
-
-Após análise detalhada, informamos que, infelizmente, os bancos não aprovaram as propostas de crédito conforme os termos apresentados nas simulações iniciais. Essa decisão foi tomada com base nos critérios internos das instituições financeiras, os quais nem sempre são divulgados de forma detalhada.
-
-Lamentamos o sucedido e colocamo-nos à disposição para esclarecer qualquer dúvida ou, se desejarem, avaliar outras possibilidades de crédito que possam corresponder ao vosso perfil.
-
- 
-
----------------------
