@@ -2,14 +2,14 @@
 # 3 - Escalas de trabalho 
 
 
-**Duvida:**
+**Dúvida:**
 
 É pretendido que a IA automatize a criação de escalas de trabalho para 15 comerciais, gerando um planeamento inicial da escala semanal com base em férias, folgas e restrições específicas de serviço/prevenção para cada comercial.
 
 O objetivo é que a IA forneça um "arranque inicial" para a escala, que depois poderá ser ajustado manualmente.
 
 
-Qual o Prompt para gerar um planeamento inicial?
+Qual o prompt para gerar um planeamento inicial?
 
 
 
@@ -91,4 +91,4 @@ Por favor, gera a escala de acordo com os requisitos.
 
 
 
-*Este prompt pode ser utilizado em qualquer assistente de IA,sendo que se for utilizado no [Gemini](https://gemini.google.com/app) é possivel  exportar a tabela para um google sheets.*
+*Este prompt pode ser utilizado em qualquer assistente de IA, sendo que se for utilizado no [Gemini](https://gemini.google.com/app) é possível exportar a tabela para um Google Sheets.*

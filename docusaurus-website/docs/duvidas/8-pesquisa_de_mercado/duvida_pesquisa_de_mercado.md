@@ -2,12 +2,12 @@
 # 8 - Pesquisa de Mercado
 
 
-**Duvida 1:**
+**Dúvida 1:**
 
 
 (Pesquisa de mercado) - casasapo, Imovirtual e idealista 
 
-É possível criar um ou mais prompts que façam busca atualizada com uma seleção de intervalo de valor de imóveis atualmente em venda especificando:
+É possível criar um ou mais prompts que façam uma busca atualizada com uma seleção de intervalo de valor de imóveis atualmente em venda, especificando:
 
 - Seleção do tipo de imóvel (moradia / apartamento / terreno, etc);
 - Intervalo de áreas;
@@ -73,15 +73,15 @@ Apresenta os resultados organizados por portal, em tabelas com a seguinte estrut
 
 *Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
-**Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
+**Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
 
 
 
 ---
 
-**Duvida 2:**
+**Dúvida 2:**
 
-É possivel usar a IA fazer a uma pesquisa de Análise Comparativa de Mercado como no exemplo? Se sim, como?
+É possível usar a IA para fazer uma pesquisa de Análise Comparativa de Mercado como no exemplo? Se sim, como?
 
 [Exemplo de pesquisa](avaliaçãoes_de_imóveis/Infocasa_2024-09-30_Lojas-com_99_m2.pdf)
 
@@ -123,4 +123,4 @@ O objetivo é realizar uma **Análise Comparativa de Mercado (ACM)** para um im�
 
 *Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
-**Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
+**Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**

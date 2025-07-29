@@ -1,30 +1,30 @@
 # 7 - Vídeos com IA
 
 
-**Duvida:**
+**Dúvida:**
 
-É possivél passar imagens de casas para a IA e obter alguma especie de Video?
-Se sim qual o prompt para chat GPT ou quais outras ferramentas utilizar?
+É possível passar imagens de casas para a IA e obter algum tipo de vídeo?
+Se sim, qual o prompt para o ChatGPT ou quais outras ferramentas utilizar?
 
 **Resposta:**
 
-Sim é possível com várias ferramentas. Para fazer a geração é carregada uma imagem e um prompt.
+Sim, é possível com várias ferramentas. Para fazer a geração, é carregada uma imagem e um prompt.
 
 
-## NOTA IMPORTANTE: a IA pode gerar vídeos que apresentão o Imovel de forma irrealista. É necessário analisar sempre o video gerado para entender se pode ser partilhado com o publico.
+## NOTA IMPORTANTE: A IA pode gerar vídeos que apresentam o imóvel de forma irrealista. É necessário analisar sempre o vídeo gerado para entender se pode ser partilhado com o público.
 
 
 
-*Exemplo de prompt:* 
+*Exemplo de prompt:*
 
 ```
 Uma filmagem cinematográfica com drone a sobrevoar lentamente uma casa moderna de dois andares, com jardim e piscina. Luz quente da "golden hour", movimento de câmara suave, vista aérea de 360 graus, sombras realistas, alto nível de detalhe, brisa suave a mover as árvores e a água. Estilo de apresentação imobiliária.
 ```
 
-Dependendo da ferramenta pode ser possivel combinar várias cenas geradas com imagens diferentes.
+Dependendo da ferramenta, pode ser possível combinar várias cenas geradas com imagens diferentes.
 
 
-*Imagens utilizádas neste exemplo:*
+*Imagens utilizadas neste exemplo:*
 
 
 !
@@ -36,7 +36,7 @@ Dependendo da ferramenta pode ser possivel combinar várias cenas geradas com im
 
 
 
-# Ferramentas e possiveis resultados:
+# Ferramentas e possíveis resultados:
 
 ## Vídeos "tradicionais" a apresentar os imóvies:
 
@@ -65,7 +65,7 @@ https://labs.google/flow/about
 <video src="vídeos_gerados/video_tradicionais/google-flow-2.mp4" width="320" height="240" controls></video>
 
 
-### Runaway ML
+### Runway ML
 
 https://app.runwayml.com/ai-tools/generate
 
@@ -80,16 +80,16 @@ https://app.runwayml.com/ai-tools/generate
 https://hailuoai.video
 
 
-<video src="vídeos_gerados/video_tradicionais/Hailuo_1.mp4.mp4" width="320" height="240" controls></video>
+<video src="vídeos_gerados/video_tradicionais/Hailuo_1.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/Hailuo_2.mp4.mp4" width="320" height="240" controls></video>
-
-
+<video src="vídeos_gerados/video_tradicionais/Hailuo_2.mp4" width="320" height="240" controls></video>
 
 
 
 
-## Vídeos com foque criativo:
+
+
+## Vídeos com foco criativo:
 
 
 
@@ -122,7 +122,7 @@ Prompt:
 <video src="vídeos_gerados/videos_criativos/google-flow-c_6.mp4" width="320" height="240" controls></video>
 
 
-### Runaway ML
+### Runway ML
 
 https://app.runwayml.com/ai-tools/generate
 

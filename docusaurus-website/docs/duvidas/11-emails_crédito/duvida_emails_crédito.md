@@ -2,13 +2,13 @@
 
 # 11 - Escrever emails com a resposta do Crédito
 
-*Área dos financiamentos*
+*Área dos Financiamentos*
 
 Intermediação de crédito 
 
 
 
-É pretendido utilizar a IA para gerar modelos de e-mail para diversas situações relacionadas com respostas de crédito, incluindo e-mails de aprovação bancária ou recusa de financiamento do crédito. 
+É pretendido utilizar a IA para gerar modelos de e-mail para diversas situações relacionadas com respostas de crédito, incluindo e-mails de aprovação bancária ou recusa de financiamento do crédito.
 
 O objetivo é automatizar a criação destes e-mails.
 
@@ -19,7 +19,7 @@ O objetivo é automatizar a criação destes e-mails.
 
 
 
-*Exemplo dos emails de resposta de crédito*
+*Exemplo dos e-mails de resposta de crédito*
 
 
 ```
@@ -45,7 +45,7 @@ Lamentamos o sucedido e colocamo-nos à disposição para esclarecer qualquer d�
 ``` markdown
 Atua como um assistente especializado em intermediação de crédito e comunicação profissional com clientes.
 
-O objetivo é gerar automaticamente **e-mail claros, empáticos e profissionais** para diferentes respostas de crédito, em nome de um intermediário de crédito.
+O objetivo é gerar automaticamente **e-mails claros, empáticos e profissionais** para diferentes respostas de crédito, em nome de um intermediário de crédito.
 
 ## Tarefa:
 Com base na situação descrita abaixo, escreve um e-mail profissional e bem estruturado, adaptado à fase do processo de financiamento.
@@ -58,7 +58,7 @@ O e-mail deve:
 
 
 
-## Exemplo de um possivel e-mail:
+## Exemplo de um possível e-mail:
 
 Situação: “Gerar um e-mail de recusa de crédito no valor de 280.000€, para habitação própria permanente, após resposta negativa de todos os bancos contactados.”
 

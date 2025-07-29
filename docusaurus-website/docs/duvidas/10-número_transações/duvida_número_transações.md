@@ -2,13 +2,13 @@
 # 10 - Saber número de transações feitas
 
 
-**Duvida:**
+**Dúvida:**
 
-Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas às vezes é pago) 
+Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas às vezes é pago).
 
-É possivel fazer com IA? Se sim, qual o prompt?
+É possível fazer com IA? Se sim, qual o prompt?
 
-Melhor prompt ou ferramente para tentar encontrar esta informação, o mais atualizada possivel.
+Melhor prompt ou ferramenta para tentar encontrar esta informação, o mais atualizada possível.
 
 
 
@@ -47,4 +47,4 @@ Apresenta os resultados numa tabela como esta:
 
 *Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
 
-**Mesmo com este Prompt a IA pode não conseguir responder caso não encontre ou não existam dados dispoviveis para tal.**
+**Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**

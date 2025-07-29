@@ -1,12 +1,12 @@
 # 6 - Ajustar as fotografias dos imóveis com IA.
 
-**Duvida:**
+**Dúvida:**
 
 
-Prompt para o chatgpt ou outro site ou ia que automaticamente ajusta o brilho, cores e contrate das imagens tal como no exemplo:
+Prompt para o ChatGPT ou outro site ou IA que automaticamente ajusta o brilho, cores e contraste das imagens, tal como no exemplo:
 
 
-*Antes* 
+*Antes*
 
 <img src="exemplos/DJI_20250326145221_0250_A.jpg" width="300"/>
 <img src="exemplos/IMG_4184%20A.jpg" width="300"/>
@@ -14,7 +14,7 @@ Prompt para o chatgpt ou outro site ou ia que automaticamente ajusta o brilho, c
 
 
 
-*Depois* 
+*Depois*
 
 <img src="exemplos/DJI_20250326145221_0250_D.jpg" width="300"/>
 <img src="exemplos/IMG_4184%20D.jpg" width="300"/>
@@ -29,10 +29,10 @@ Prompt para o chatgpt ou outro site ou ia que automaticamente ajusta o brilho, c
 
 https://www.fotor.com/photo-editor-app/editor/basic
 
-*Com a funcionaliade: 1-Tap Enhance*
+*Com a funcionalidade: 1-Tap Enhance*
 
 
-*Resultado de exemplo:* 
+*Resultado de exemplo:*
 
 <img src="possiveis_resultados/fotor-DJI_2025.png" width="300"/>
 
@@ -50,7 +50,7 @@ https://www.fotor.com/photo-editor-app/editor/basic
 
 https://letsenhance.io/pt/boost#
 
-*Resultado de exemplo:* 
+*Resultado de exemplo:*
 
 <img src="possiveis_resultados/letsenhance-DJI_2025.jpg" width="300"/>
 

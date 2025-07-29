@@ -2,23 +2,23 @@
 
 
 
-**Duvida**
+**Dúvida:**
 
-Como gravar chamadas e fazer com que a IA escreve um resumo da conversa com o cliente para guardar no CRM.
+Como gravar chamadas e fazer com que a IA escreva um resumo da conversa com o cliente para guardar no CRM.
 
 ## Solução paga:
 
 
-Para esta questão o melhor e mais simples é utilizar uma app paga especifica para esta tarefa:
+Para esta questão, o melhor e mais simples é utilizar uma app paga específica para esta tarefa:
 
 Sugestões: 
  * https://otter.ai
  * https://www.notta.ai
 
- *Ambas disponiveis para Android e iPhone.*
+ *Ambas disponíveis para Android e iPhone.*
 
  
-## Solução gratis:
+## Solução gratuita:
 
  1. Cada consultor grava a sua chamada
  2. Envia a gravação (ficheiro de audio) para um site de transcrição. Exemplos: 
