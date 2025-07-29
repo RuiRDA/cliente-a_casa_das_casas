@@ -67,25 +67,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/ebenai.png',
       navbar: {
-        title: 'A Casa das Casas',
+        title: 'Eben AI Solutions',
         logo: {
-          alt: 'A Casa das Casas Logo',
-          src: 'img/logo.svg',
+          alt: 'Eben AI Solutions Logo',
+          src: 'img/ebenai.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'duvidas/lista_de_duvidas',
             position: 'left',
-            label: 'Dúvidas',
-          },
-          {
-            href: 'https://github.com/RuiRDA/cliente-a_casa_das_casas',
-            label: 'GitHub',
-            position: 'right',
-          },
+            label: 'Ferramentas e Prompts',
+          }
         ],
       },
       footer: {
@@ -101,16 +96,16 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/RuiRDA/cliente-a_casa_das_casas',
+                label: 'Eben AI Solutions',
+                href: 'https://ebenaisolutions.pt/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} A Casa das Casas. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Eben AI Solutions.`,
       },
       prism: {
         theme: prismThemes.github,

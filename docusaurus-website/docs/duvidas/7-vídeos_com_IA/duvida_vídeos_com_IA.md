@@ -29,9 +29,9 @@ Dependendo da ferramenta, pode ser possível combinar várias cenas geradas com 
 
 !
 
-<img src="imagens_usadas/DJI_20250326145221_0250_D.jpg" width="300"/>
-<img src="imagens_usadas/IMG_4184%20D.jpg" width="300"/>
-<img src="imagens_usadas/IMG_4187%20D.jpg" width="300"/>
+<img src="/cliente-a_casa_das_casas/video/duvidas_7/DJI_20250326145221_0250_D.jpg" width="300"/>
+<img src="/cliente-a_casa_das_casas/video/duvidas_7/IMG_4184 D.jpg" width="300"/>
+<img src="/cliente-a_casa_das_casas/video/duvidas_7/IMG_4187 D.jpg" width="300"/>
 
 
 
@@ -44,13 +44,13 @@ Dependendo da ferramenta, pode ser possível combinar várias cenas geradas com 
 
 https://aistudio.google.com/prompts/new_video
 
-<video src="vídeos_gerados/video_tradicionais/google-ai-studio_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-ai-studio_1.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/google-ai-studio_2.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-ai-studio_2.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/google-ai-studio_3.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-ai-studio_3.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/google-ai-studio_4.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-ai-studio_4.mp4" width="320" height="240" controls></video>
 
 
 
@@ -60,18 +60,18 @@ https://aistudio.google.com/prompts/new_video
 
 https://labs.google/flow/about
 
-<video src="vídeos_gerados/video_tradicionais/google-flow-1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-flow-1.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/google-flow-2.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/google-flow-2.mp4" width="320" height="240" controls></video>
 
 
 ### Runway ML
 
 https://app.runwayml.com/ai-tools/generate
 
-<video src="vídeos_gerados/video_tradicionais/runwayml_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/runwayml_1.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/runwayml_2.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/runwayml_2.mp4" width="320" height="240" controls></video>
 
 
 
@@ -80,9 +80,9 @@ https://app.runwayml.com/ai-tools/generate
 https://hailuoai.video
 
 
-<video src="vídeos_gerados/video_tradicionais/Hailuo_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/Hailuo_1.mp4" width="320" height="240" controls></video>
 
-<video src="vídeos_gerados/video_tradicionais/Hailuo_2.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/video_tradicionais/Hailuo_2.mp4" width="320" height="240" controls></video>
 
 
 
@@ -102,24 +102,24 @@ Prompt:
 Super heros hulk and iron man fight in front of the building
 ```
 
-<video src="vídeos_gerados/videos_criativos/google-flow-c_1.mp4" width="320" height="240" controls></video>
-<video src="vídeos_gerados/videos_criativos/google-flow-c_2.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_2.mp4" width="320" height="240" controls></video>
 
 Prompt:
 ```
 Happy family celebrating a birthday in the living room.
 ```
 
-<video src="vídeos_gerados/videos_criativos/google-flow-c_3.mp4" width="320" height="240" controls></video>
-<video src="vídeos_gerados/videos_criativos/google-flow-c_4.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_3.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_4.mp4" width="320" height="240" controls></video>
 
 
 Prompt:
 ```
 *Static Camera* Pro Surfer riding a massive wave.
 ```
-<video src="vídeos_gerados/videos_criativos/google-flow-c_5.mp4" width="320" height="240" controls></video>
-<video src="vídeos_gerados/videos_criativos/google-flow-c_6.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_5.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/google-flow-c_6.mp4" width="320" height="240" controls></video>
 
 
 ### Runway ML
@@ -132,7 +132,7 @@ Drone flying around the building. night time setting. New years celebration. Fir
 ```
 
 
-<video src="vídeos_gerados/videos_criativos/runwayml_c_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/runwayml_c_1.mp4" width="320" height="240" controls></video>
 
 
 
@@ -149,14 +149,7 @@ Prompt:
 Santa claus enters the room and waves to the camera 
 ```
 
-<video src="vídeos_gerados/videos_criativos/Hailuo_c_1.mp4" width="320" height="240" controls></video>
+<video src="/cliente-a_casa_das_casas/video/duvidas_7/videos_criativos/Hailuo_c_1.mp4" width="320" height="240" controls></video>
 
 
-Prompt:
-```
-Group of surfers riding a massive wave in the distance
-```
-
-
-<video src="vídeos_gerados/videos_criativos/" width="320" height="240" controls></video>
 
