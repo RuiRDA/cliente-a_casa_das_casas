@@ -1,14 +1,15 @@
+# Dúvidas do Grupo das Casas
+
+
 | Tarefa | Estado |
 |---|---|
 | 1 - Branqueamento de capitais | ✅ concluído |
 | 2 - Qual é a melhor forma de questionar o chat sobre questões de legislação. | 🔍 feito e a aguardar revisão |
 | 3 - Escalas de trabalho | 🔍 feito e a aguardar revisão |
-| 4 - Criar descrições de imóveis (adiada/cancelada) | ❌ adiado |
 | 5 - Gravar, transcrever e resumir chamadas com IA | 🔍 feito e a aguardar revisão  |
 | 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 🔍 feito e a aguardar revisão |
 | 7 - Vídeos com IA | 🔍 feito e a aguardar revisão |
 | 8 - Pesquisa de Mercado | 🔍 feito e a aguardar revisão |
-| 9 - Minuta para o estudo de mercado | 📅 para uma próxima fase |
 | 10 - Saber número de transações feitas | 🔍 feito e a aguardar revisão |
 | 11 - Escrever emails com a resposta do Crédito | 🔍 feito e a aguardar revisão |
 
@@ -34,11 +35,6 @@
 
 ---
 
-### 4 - Descrições de imóveis com base nas minutas (adiada/cancelada)
-
-[Dúvida descrição de imóveis](4-descrições_de_imóveis/duvida_descrição_imóveis.md)
-
----
 
 ### 5 - Gravar, transcrever e resumir chamadas com IA
 
@@ -64,11 +60,6 @@
 
 ---
 
-### 9 - Minuta para o estudo de mercado (para uma próxima fase)
-
-[Dúvida de minuta estudo de mercado](9-minuta_estudo_mercado/duvida_minuta_estudo_mercado.md)
-
----
 
 ### 10 - Saber número de transações feitas
 

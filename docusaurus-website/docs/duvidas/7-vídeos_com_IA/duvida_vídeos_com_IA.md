@@ -27,7 +27,7 @@ Dependendo da ferramenta, pode ser possível combinar várias cenas geradas com 
 *Imagens utilizadas neste exemplo:*
 
 
-!
+
 
 <img src="/cliente-a_casa_das_casas/video/duvidas_7/DJI_20250326145221_0250_D.jpg" width="300"/>
 <img src="/cliente-a_casa_das_casas/video/duvidas_7/IMG_4184 D.jpg" width="300"/>

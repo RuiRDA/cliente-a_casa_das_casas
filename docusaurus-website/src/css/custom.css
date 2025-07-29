@@ -28,3 +28,11 @@
   --ifm-color-primary-lightest: #add4ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+
+/* Enable word-wrap only for fenced code blocks */
+.theme-code-block code {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+}
