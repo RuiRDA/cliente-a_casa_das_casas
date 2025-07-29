@@ -8,17 +8,17 @@ Prompt para o chatgpt ou outro site ou ia que automaticamente ajusta o brilho, c
 
 *Antes* 
 
-<img src="exemplos/DJI_20250326145221_0250_A.jpg" width="300">
-<img src="exemplos/IMG_4184%20A.jpg" width="300">
-<img src="exemplos/IMG_4187%20A.jpg" width="300">
+<img src="exemplos/DJI_20250326145221_0250_A.jpg" width="300"/>
+<img src="exemplos/IMG_4184%20A.jpg" width="300"/>
+<img src="exemplos/IMG_4187%20A.jpg" width="300"/>
 
 
 
 *Depois* 
 
-<img src="exemplos/DJI_20250326145221_0250_D.jpg" width="300">
-<img src="exemplos/IMG_4184%20D.jpg" width="300">
-<img src="exemplos/IMG_4187%20D.jpg" width="300">
+<img src="exemplos/DJI_20250326145221_0250_D.jpg" width="300"/>
+<img src="exemplos/IMG_4184%20D.jpg" width="300"/>
+<img src="exemplos/IMG_4187%20D.jpg" width="300"/>
 
 
 
@@ -34,7 +34,7 @@ https://www.fotor.com/photo-editor-app/editor/basic
 
 *Resultado de exemplo:* 
 
-<img src="possiveis_resultados/fotor-DJI_2025.png" width="300">
+<img src="possiveis_resultados/fotor-DJI_2025.png" width="300"/>
 
 
 **Preço:**
@@ -52,7 +52,7 @@ https://letsenhance.io/pt/boost#
 
 *Resultado de exemplo:* 
 
-<img src="possiveis_resultados/letsenhance-DJI_2025.jpg" width="300">
+<img src="possiveis_resultados/letsenhance-DJI_2025.jpg" width="300"/>
 
 
 **Preço:**

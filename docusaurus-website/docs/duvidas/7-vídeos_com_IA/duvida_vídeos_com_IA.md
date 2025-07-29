@@ -27,9 +27,11 @@ Dependendo da ferramenta pode ser possivel combinar várias cenas geradas com im
 *Imagens utilizádas neste exemplo:*
 
 
-<img src="imagens_usadas/DJI_20250326145221_0250_D.jpg" width="300">
-<img src="imagens_usadas/IMG_4184%20D.jpg" width="300">
-<img src="imagens_usadas/IMG_4187%20D.jpg" width="300">
+!
+
+<img src="imagens_usadas/DJI_20250326145221_0250_D.jpg" width="300"/>
+<img src="imagens_usadas/IMG_4184%20D.jpg" width="300"/>
+<img src="imagens_usadas/IMG_4187%20D.jpg" width="300"/>
 
 
 
