@@ -6,7 +6,7 @@
 | 4 - Criar descrições de imóveis (adiada/cancelada) | ❌ adiado |
 | 5 - Gravar, transcrever e resumir chamadas com IA | 🔍 feito e a aguardar revisão  |
 | 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 🔍 feito e a aguardar revisão |
-| 7 - Vídeos com IA | ⏳ em andamento |
+| 7 - Vídeos com IA | 🔍 feito e a aguardar revisão |
 | 8 - Pesquisa de Mercado | 🔍 feito e a aguardar revisão |
 | 9 - Minuta para o estudo de mercado | 📅 para uma próxima fase |
 | 10 - Saber número de transações feitas | 🔍 feito e a aguardar revisão |
