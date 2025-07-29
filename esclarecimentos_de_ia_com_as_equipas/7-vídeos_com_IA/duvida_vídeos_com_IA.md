@@ -8,24 +8,63 @@ Se sim qual o prompt para chat GPT ou quais outras ferramentas utilizar?
 
 **Resposta:**
 
-Sim é possível com várias ferramentas:
+Sim é possível com várias ferramentas. Para fazer a geração é carregada uma imagem e um prompt.
 
 
-Exemplos:
+*Exemplo de prompt:* 
+
+```
+Uma filmagem cinematográfica com drone a sobrevoar lentamente uma casa moderna de dois andares, com jardim e piscina. Luz quente da "golden hour", movimento de câmara suave, vista aérea de 360 graus, sombras realistas, alto nível de detalhe, brisa suave a mover as árvores e a água. Estilo de apresentação imobiliária.
+```
+
+Dependendo da ferramenta pode ser possivel combinar várias cenas geradas com imagens diferentes.
+
 
 *Imagens utilizádas neste exemplo:*
 
-*Imagens* 
-<img src="exemplos/DJI_20250326145221_0250_D.jpg" width="300">
-<img src="exemplos/IMG_4184%20D.jpg" width="300">
-<img src="exemplos/IMG_4187%20D.jpg" width="300">
+
+<img src="imagens_usadas/DJI_20250326145221_0250_D.jpg" width="300">
+<img src="imagens_usadas/IMG_4184%20D.jpg" width="300">
+<img src="imagens_usadas/IMG_4187%20D.jpg" width="300">
 
 
-*Vídeos google ai studio:*
-
-<video src="vídeos_gerados/Generated File July 28, 2025 - 12_18AM(1).mp4" width="320" height="240" controls></video>
 
 
-*Vídeos google flow:*
+# Ferramentas e possiveis resultados:
+
+### Google AI Studio
+
+https://aistudio.google.com/prompts/new_video
+
+<video src="vídeos_gerados/google-ai-studio_1.mp4" width="320" height="240" controls></video>
+
+<video src="vídeos_gerados/google-ai-studio_2.mp4" width="320" height="240" controls></video>
+
+<video src="vídeos_gerados/google-ai-studio_3.mp4" width="320" height="240" controls></video>
+
+<video src="vídeos_gerados/google-ai-studio_4.mp4" width="320" height="240" controls></video>
+
+
+
+
+
+### Google Flow
+
+https://labs.google/flow/
+
+<video src="vídeos_gerados/google-flow-1.mp4" width="320" height="240" controls></video>
+
+<video src="vídeos_gerados/google-flow-2.mp4" width="320" height="240" controls></video>
+
+
+### Runaway ML
+
+https://app.runwayml.com/ai-tools/generate
+
+<video src="vídeos_gerados/runwayml_1.mp4" width="320" height="240" controls></video>
+
+<video src="vídeos_gerados/runwayml_2.mp4" width="320" height="240" controls></video>
+
+
 
 

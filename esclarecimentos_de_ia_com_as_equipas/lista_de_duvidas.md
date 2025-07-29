@@ -4,8 +4,8 @@
 | 2 - Qual é a melhor forma de questionar o chat em questões de legislação. | 📝 por fazer |
 | 3 - Escalas de trabalho | 🔍 feito e a aguardar revisão |
 | 4 - Criar descrições de imóveis (adiada/cancelada) | ❌ adiado |
-| 5 - Gravar, transcrever e resumir chamadas com IA | 📝 por fazer |
-| 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 📝 por fazer |
+| 5 - Gravar, transcrever e resumir chamadas com IA | 🔍 feito e a aguardar revisão  |
+| 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 🔍 feito e a aguardar revisão |
 | 7 - Vídeos com IA | ⏳ em andamento |
 | 8 - Pesquisa de Mercado | 🔍 feito e a aguardar revisão |
 | 9 - Minuta para o estudo de mercado | 📅 para uma próxima fase |
