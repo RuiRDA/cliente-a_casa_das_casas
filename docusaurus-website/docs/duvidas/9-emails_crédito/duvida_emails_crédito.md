@@ -1,6 +1,6 @@
 
 
-# 9 - Escrever emails com a resposta da Aprovação de Crédito
+# 9 - Emails com a resposta da Aprovação de Crédito
 
 *Área dos Financiamentos* - Intermediação de crédito 
 
@@ -35,7 +35,7 @@ Lamentamos o sucedido e colocamo-nos à disposição para esclarecer qualquer d�
 
 
 
-## Prompt:
+#### Prompt:
 
 
 

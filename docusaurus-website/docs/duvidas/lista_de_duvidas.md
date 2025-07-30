@@ -2,7 +2,6 @@
 
 <img src="/img/Logo-grupo-das-casas.png" width="200"/>
 
-
 ### Esta página contém:
 - respostas às dúvidas de cada departamento
 - Prompts preparados para serem aplicados aos casos em concreto e respetivas instruções de utilização
@@ -10,7 +9,8 @@
 
 
 
-## Índice de Dúvidas
+
+### Índice de Dúvidas e Pedidos
 
 1.  [Branqueamento de capitais](1-branqueamento_de_capitais/duvida_branqueamento_de_capitais.md)
 2.  Qual é a melhor forma de questionar o ChatGPT sobre questões de legislação

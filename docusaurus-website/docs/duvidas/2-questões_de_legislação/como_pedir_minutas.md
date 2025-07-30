@@ -28,13 +28,13 @@ Vamos imaginar que queremos fazer uma minuta da carta dos confinantes aos rústi
 
 Exemplos de pedidos bem formulados
 
-Exemplo 1:
+**Prompt de Exemplo 1:**
 - "Bom dia. Atua como um jurista com QI de 180, especialista na área de direitos reais e na redação de documentos legais em conformidade com a legislação portuguesa, em Portugal. Quero obter um modelo de documento, uma minuta da carta dos confinantes aos rústicos. Segundo o direito português, podes fazer uma minuta de declaração de que o senhor x, proprietário de um terreno rústico, autoriza a passagem de canalização de água pela sua propriedade, em Portugal, para efeitos de legalização de obras, por favor? Formata a minuta em português de Portugal, como se fosse um documento para entregar a uma entidade pública, com espaços apropriados para o utilizador preencher os seus dados. Faz de acordo com o direito português e respeita a estrutura tradicional utilizada por juristas em Portugal. Inclui cabeçalho, espaço para assinatura, com a referência legal e em tom jurídico/formal, por favor. Não incluas explicações, apenas a minuta com campos em branco [ex: "__________", "[NOME]", "[DATA]"].
 
-Exemplo 2:
+**Prompt de Exemplo 2:**
 - "Bom dia. Atua como um jurista com QI de 180, especialista na área de direitos reais e  na redação de documentos legais em conformidade com a legislação portuguesa, em Portugal. Preciso de um modelo de documento, uma minuta de carta de oposição à servidão de passagem, para entregar ao vizinho e à Câmara Municipal. A situação é em Portugal, e é num terreno agrícola. Faz de acordo com o direito português e respeita a estrutura tradicional utilizada por juristas em Portugal. Inclui cabeçalho, espaço para assinatura, com a referência legal e em tom jurídico/formal, em português de Portugal, por favor. Não incluas explicações, apenas a minuta com campos em branco [ex: "__________", "[NOME]", "[DATA]"].
 
-Notas importantes:
+**Notas importantes:**
 - Manter bastante atenção, olho crítico e pensamento próprio. O ChatGPT é um funcionário, e não deve ser tratado como um patrão. Ele pode e deve ser corrigido quando necessário. 
 - Verificar sempre os resultados obtidos e avaliar sempre se ficaram satisfatórios. Se houver alguma coisa que não tenha ficado bem, devemos agradecer, corrigir e colocar a nossa dúvida ou questão (especificamente no ponto em que detetámos que está errado ou incompleto), para que haja melhoramento contínuo no resultado. 
 - Ir copiando as partes boas para um documento word ou equivalente.

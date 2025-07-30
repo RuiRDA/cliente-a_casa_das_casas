@@ -19,7 +19,7 @@
 
 Resposta: 
 
-O ChatGPTnão consegue concluir esta tarefa de pesquisa com sucesso porque, quando ele vai aos sites (Idealista, Imovirtual, etc.) ler os conteúdos das casas para fazer essa pesquisa de mercado, os sites têm sistemas que detetam que foi um robot que entrou na plataforma deles e bloqueiam. Por isso, na maioria das vezes a pesquisa fica bastante incompleta, ou até nem conseguefazer de todo. 
+Na maioria das vezes, o ChatGPT não consegue dar bons resultados nesta tarefa de pesquisa porque, quando ele vai aos sites (Idealista, Imovirtual, etc.) ler os conteúdos das casas para fazer essa pesquisa de mercado, os sites têm sistemas que detetam que foi um robot que entrou na plataforma deles e bloqueiam. Por isso, na maioria das vezes, a pesquisa fica bastante incompleta, ou até nem a consegue fazer de todo. 
 
 Ainda assim, deixamos aqui um prompt específico para esta pesquisa de mercado, embora haja esta limitação. 
 
@@ -29,7 +29,7 @@ Ainda assim, deixamos aqui um prompt específico para esta pesquisa de mercado, 
 **Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
 
 
-## Prompt:
+#### Prompt:
 
 
 ``` markdown
@@ -88,7 +88,7 @@ Como é necessário a IA ter conseguido fazer a pesquisa de mercado para depois 
 
 Ainda assim, deixamos aqui um prompt para obter essa análise:
 
-## Prompt:
+#### Prompt:
 
 ``` markdown
 Atua como um analista especializado em mercado imobiliário em Portugal.

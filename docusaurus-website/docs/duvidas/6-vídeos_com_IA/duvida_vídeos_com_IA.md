@@ -9,7 +9,7 @@ Se sim, qual o prompt para o ChatGPT ou quais outras ferramentas utilizar?
 Sim, é possível com várias ferramentas. Para fazer a geração, é carregada uma imagem e um prompt.
 
 
-## NOTA IMPORTANTE: A IA pode gerar vídeos que apresentam o imóvel de forma irrealista. É necessário analisar sempre o vídeo gerado para entender se pode ser partilhado com o público.
+**NOTA IMPORTANTE: A IA pode gerar vídeos que apresentam o imóvel de forma irrealista. É necessário analisar sempre o vídeo gerado para entender se pode ser partilhado com o público.**
 
 
 
@@ -34,11 +34,11 @@ Dependendo da ferramenta, pode ser possível combinar várias cenas geradas com 
 
 
 
-# Ferramentas e possíveis resultados:
+## Ferramentas e possíveis resultados:
 
-## Vídeos "tradicionais" a apresentar os imóvies:
+### Vídeos "tradicionais" a apresentar os imóvies:
 
-### Google AI Studio
+#### Google AI Studio
 
 https://aistudio.google.com/prompts/new_video
 
@@ -54,7 +54,7 @@ https://aistudio.google.com/prompts/new_video
 
 
 
-### Google Flow
+#### Google Flow
 
 https://labs.google/flow/about
 
@@ -63,7 +63,7 @@ https://labs.google/flow/about
 <video src="/video/duvidas_6/video_tradicionais/google-flow-2.mp4" width="320" height="240" controls></video>
 
 
-### Runway ML
+#### Runway ML
 
 https://app.runwayml.com/ai-tools/generate
 
@@ -73,7 +73,7 @@ https://app.runwayml.com/ai-tools/generate
 
 
 
-### Hailuoai
+#### Hailuoai
 
 https://hailuoai.video
 
@@ -87,11 +87,11 @@ https://hailuoai.video
 
 
 
-## Vídeos com foco criativo:
+### Vídeos com foco criativo:
 
 
 
-### Google Flow
+#### Google Flow
 
 https://labs.google/flow/about
 
@@ -120,7 +120,7 @@ Prompt:
 <video src="/video/duvidas_6/videos_criativos/google-flow-c_6.mp4" width="320" height="240" controls></video>
 
 
-### Runway ML
+#### Runway ML
 
 https://app.runwayml.com/ai-tools/generate
 
@@ -136,7 +136,7 @@ Drone flying around the building. night time setting. New years celebration. Fir
 
 
 
-### Hailuoai
+#### Hailuoai
 
 https://hailuoai.video
 

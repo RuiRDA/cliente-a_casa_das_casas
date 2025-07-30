@@ -36,7 +36,7 @@ Para fazer a escala, temos de ter em conta os seguintes critérios:
 
 
 
-## Prompt:
+**Prompt:**
 
 ```markdown
 Bom dia. És um assistente especialista em planeamento de escalas de trabalho. O teu objetivo é gerar uma **escala semanal inicial** para uma equipa de comerciais, tendo em conta férias, folgas e restrições específicas.
