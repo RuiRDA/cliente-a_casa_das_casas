@@ -9,7 +9,7 @@ Se sim, qual o prompt para o ChatGPT ou quais outras ferramentas utilizar?
 Sim, é possível com várias ferramentas. Para fazer a geração, é carregada uma imagem e um prompt.
 
 
-**NOTA IMPORTANTE: A IA pode gerar vídeos que apresentam o imóvel de forma irrealista. É necessário analisar sempre o vídeo gerado para entender se pode ser partilhado com o público.**
+**NOTA IMPORTANTE: A IA pode gerar vídeos que apresentam o imóvel de forma irrealista. É necessário analisar sempre o vídeo gerado para entender se pode ser partilhado com o público ou se pode induzir as pessoas em erro.**
 
 
 
