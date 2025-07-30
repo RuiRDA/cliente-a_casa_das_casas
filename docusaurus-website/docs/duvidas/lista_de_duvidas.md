@@ -1,6 +1,6 @@
 # Dúvidas do Grupo das Casas
 
-<img src="/cliente-a_casa_das_casas/img/Logo-grupo-das-casas.png" width="200"/>
+<img src="/img/Logo-grupo-das-casas.png" width="200"/>
 
 
 ### Esta página contém:

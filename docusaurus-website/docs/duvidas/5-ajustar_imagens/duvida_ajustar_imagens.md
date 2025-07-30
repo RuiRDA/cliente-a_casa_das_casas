@@ -8,17 +8,17 @@ Prompt para o ChatGPT ou outro site ou IA que automaticamente ajusta o brilho, c
 
 *Antes*
 
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/DJI_20250326145221_0250_A.jpg" width="300"/>
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/IMG_4184 A.jpg" width="300"/>
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/IMG_4187 A.jpg" width="300"/>
+<img src="/img/duvidas_5/DJI_20250326145221_0250_A.jpg" width="300"/>
+<img src="/img/duvidas_5/IMG_4184 A.jpg" width="300"/>
+<img src="/img/duvidas_5/IMG_4187 A.jpg" width="300"/>
 
 
 
 *Depois*
 
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/DJI_20250326145221_0250_D.jpg" width="300"/>
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/IMG_4184 D.jpg" width="300"/>
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/IMG_4187 D.jpg" width="300"/>
+<img src="/img/duvidas_5/DJI_20250326145221_0250_D.jpg" width="300"/>
+<img src="/img/duvidas_5/IMG_4184 D.jpg" width="300"/>
+<img src="/img/duvidas_5/IMG_4187 D.jpg" width="300"/>
 
 
 
@@ -34,7 +34,7 @@ https://www.fotor.com/photo-editor-app/editor/basic
 
 *Resultado de exemplo:*
 
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/fotor-DJI_2025.png" width="300"/>
+<img src="/img/duvidas_5/fotor-DJI_2025.png" width="300"/>
 
 
 **Preço:**
@@ -52,7 +52,7 @@ https://letsenhance.io/pt/boost#
 
 *Resultado de exemplo:*
 
-<img src="/cliente-a_casa_das_casas/img/duvidas_5/letsenhance-DJI_2025.jpg" width="300"/>
+<img src="/img/duvidas_5/letsenhance-DJI_2025.jpg" width="300"/>
 
 
 **Preço:**
