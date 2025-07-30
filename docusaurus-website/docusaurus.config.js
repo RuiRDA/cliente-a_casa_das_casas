@@ -109,14 +109,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      themeConfig: {
-  colorMode: {
-    defaultMode: 'dark',
-    disableSwitch: true,
-    respectPrefersColorScheme: false,
-  },
-  // ... other config options
-}
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
     }),
 };
 
