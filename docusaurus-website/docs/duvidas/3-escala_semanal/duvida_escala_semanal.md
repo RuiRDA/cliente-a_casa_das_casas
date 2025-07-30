@@ -2,9 +2,7 @@
 # 3 - Escalas de trabalho 
 
 
-**Dúvida:**
-
-É pretendido que a IA automatize a criação de escalas de trabalho para 15 comerciais, gerando um planeamento inicial da escala semanal com base em férias, folgas e restrições específicas de serviço/prevenção para cada comercial.
+Queremos automatizar a criação de escalas de trabalho para 15 comerciais, gerando um planeamento inicial da escala semanal com base em férias, folgas e restrições específicas de serviço/prevenção para cada comercial.
 
 O objetivo é que a IA forneça um "arranque inicial" para a escala, que depois poderá ser ajustado manualmente.
 
@@ -14,31 +12,26 @@ Qual o prompt para gerar um planeamento inicial?
 
 
 
-
 *Exemplo das restrições para escala dos comerciais*
  
-
- 
 ```
-Temos atualmente 12 comerciais + 1 (Catarina): Miguel; José; Venâncio; Alexandre; André; Cláudio; Nuno; Sandro; Cátia; Marco; Inês e Margarida.
+Temos atualmente 12 comerciais + 1 (Catarina): Miguel; José; Venâncio; Alexandre; André; Cláudio; Nuno; Sandro; Cátia; Marco; Inês e Margarida + Catarina.
 
  
 
-Em que para fazer a escala temos de ter em conta os critérios:
+Para fazer a escala, temos de ter em conta os seguintes critérios:
 
- 
 
-1.º verificar férias e folgas de cada comercial;
+1.º - verificar férias e folgas de cada comercial;
 
-2º os comerciais Venâncio e José fazem serviço de Serviço e Prevenção às terças-feiras; André e Alexandre às segundas-feiras; Sandro e Marco às quartas-feiras;
+2º - os comerciais Venâncio e José fazem Serviço e Prevenção às terças-feiras; André e Alexandre às segundas-feiras; Sandro e Marco às quartas-feiras;
 
-3-º o Cláudio e José devem fazer os serviços e prevenções com os elementos das suas equipas
+3-º - o Cláudio e o José devem fazer o Serviço e Prevenção com os elementos das suas equipas
 
-4.º não podem estar de serviço/prevenção antes das folgas
+4.º - não podem estar de Serviço e Prevenção antes das folgas
 
-5.º a Catarina faz apenas 1 a 2 serviços por semana, não trabalha aos fins de semana (folga) e não faz serviço de prevenção.  
+5.º - a Catarina faz apenas 1 a 2 serviços por semana, não trabalha aos fins de semana (folga) e não faz serviço de Prevenção.  
 ```
-
 
 
 
@@ -46,7 +39,7 @@ Em que para fazer a escala temos de ter em conta os critérios:
 ## Prompt:
 
 ```markdown
-És um assistente especialista em planeamento de escalas de trabalho. O teu objetivo é gerar uma **escala semanal inicial** para uma equipa de comerciais, tendo em conta férias, folgas e restrições específicas.
+Bom dia. És um assistente especialista em planeamento de escalas de trabalho. O teu objetivo é gerar uma **escala semanal inicial** para uma equipa de comerciais, tendo em conta férias, folgas e restrições específicas.
 
 Antes de gerar a escala, deves **pensar cuidadosamente** sobre os seguintes pontos:
 1. Identifica todas as restrições individuais (dias de férias, folgas, indisponibilidades, serviços de prevenção).
@@ -57,13 +50,13 @@ De seguida, gera a escala no seguinte **formato fixo** (usar sempre este modelo)
 
 | Comercial | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |-----------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Nome A    |  W  |  W  |  F  |  W  |  W  |  L  |  W  |
+| Nome A    |  T  |  T  |  F  |  T  |  T  |  L  |  T  |
 | Nome B    | ... | ... | ... | ... | ... | ... | ... |
 
 Legenda:
-- `W` = Trabalho
+- `T` = Trabalho
 - `F` = Férias
-- `L` = Folga / Dia livre
+- `L` = Folga / Dia Livre
 - `P` = Prevenção ou outro serviço específico
 
 Após a tabela, apresenta um pequeno **Resumo de Critérios**, onde explicas:

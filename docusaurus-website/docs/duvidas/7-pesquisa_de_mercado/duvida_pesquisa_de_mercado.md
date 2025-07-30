@@ -2,12 +2,7 @@
 # 7 - Pesquisa de Mercado
 
 
-**Dúvida 1:**
-
-
-(Pesquisa de mercado) - casasapo, Imovirtual e idealista 
-
-É possível criar um ou mais prompts que façam uma busca atualizada com uma seleção de intervalo de valor de imóveis atualmente em venda, especificando:
+**7.1. Queremos saber se é possível criar um ou mais prompts que façam uma busca atualizada com uma seleção de intervalo de valor de imóveis atualmente em venda, especificando:**
 
 - Seleção do tipo de imóvel (moradia / apartamento / terreno, etc);
 - Intervalo de áreas;
@@ -22,13 +17,23 @@
 
 *Gostaríamos de saber o que está à venda na Ericeira? Áreas? Moradias com piscina? T3 com vista de mar?*
 
+Resposta: 
+
+O ChatGPTnão consegue concluir esta tarefa de pesquisa com sucesso porque, quando ele vai aos sites (Idealista, Imovirtual, etc.) ler os conteúdos das casas para fazer essa pesquisa de mercado, os sites têm sistemas que detetam que foi um robot que entrou na plataforma deles e bloqueiam. Por isso, na maioria das vezes a pesquisa fica bastante incompleta, ou até nem conseguefazer de todo. 
+
+Ainda assim, deixamos aqui um prompt específico para esta pesquisa de mercado, embora haja esta limitação. 
+
+*Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
+*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
+
+**Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
 
 
 ## Prompt:
 
 
 ``` markdown
-Atua como um assistente especializado em mercado imobiliário em Portugal, com acesso aos portais Idealista, Imovirtual e Casa Sapo.
+Bom dia. Atua como um assistente especializado em mercado imobiliário em Portugal, com acesso aos portais Idealista, Imovirtual e Casa Sapo.
 
 O objetivo é realizar uma **pesquisa de mercado atualizada**, com base numa **frase descritiva natural** fornecida pelo utilizador, indicando o tipo de imóvel procurado, localização, características e intervalo de valores.
 
@@ -57,9 +62,7 @@ Apresenta os resultados organizados por portal, em tabelas com a seguinte estrut
 ---
 
 ### 📝 Frase de pesquisa a analisar:
-[INSERIR AQUI UMA FRASE NATURAL, ex.:
-
-“Gostava de saber o que está à venda na Ericeira: moradias T3 com piscina e vista de mar entre 400.000€ e 700.000€, com pelo menos 150m².”]
+[INSERIR AQUI UMA FRASE NATURAL, ex.: “Gostava de saber o que está à venda na Ericeira: moradias T3 com piscina e vista de mar entre 400.000€ e 700.000€, com pelo menos 150m².”]
 
 ---
 
@@ -68,24 +71,22 @@ Apresenta os resultados organizados por portal, em tabelas com a seguinte estrut
 - A resposta deve ser clara, estruturada e acionável, com **links clicáveis e organizados por portal**.
 
 ```
-
-*Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
-
-*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
-
 **Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
 
 
 
----
-
-**Dúvida 2:**
-
-É possível usar a IA para fazer uma pesquisa de Análise Comparativa de Mercado como no exemplo? Se sim, como?
+ **7.2. É possível usar a IA para fazer uma pesquisa de Análise Comparativa de Mercado como no exemplo? Se sim, como?**
 
 [Exemplo de pesquisa](avaliaçãoes_de_imóveis/Infocasa_2024-09-30_Lojas-com_99_m2.pdf)
 
+Como é necessário a IA ter conseguido fazer a pesquisa de mercado para depois poder fazer a análise comparativa, os resultados da IA na análise comparativa estão diretamente dependentes da pesquisa mencionada no tópico anterior (7.1.), a qual já vimos que fica manifestamente incompleta se feita com estas IAs pelo motivo mencionado acima. 
 
+*Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
+*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
+
+**Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
+
+Ainda assim, deixamos aqui um prompt para obter essa análise:
 
 ## Prompt:
 
@@ -117,10 +118,6 @@ O objetivo é realizar uma **Análise Comparativa de Mercado (ACM)** para um im�
 - Finaliza com uma conclusão clara: o imóvel analisado está acima, abaixo ou dentro do intervalo de mercado.
 
 ```
-
-
-*Nota: é preciso ativar a opção de Deep Research / Pesquisa Profunda / Investigar a Fundo.*
-
-*Nota: Experimentar utilizar este prompt com a IA https://www.perplexity.ai*
-
 **Mesmo com este prompt, a IA pode não conseguir responder caso não encontre ou não existam dados disponíveis para tal.**
+
+

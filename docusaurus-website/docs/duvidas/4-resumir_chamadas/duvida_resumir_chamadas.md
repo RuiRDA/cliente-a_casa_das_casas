@@ -1,9 +1,6 @@
 # 4 - Gravar, transcrever e resumir chamadas com IA
 
 
-
-**Dúvida:**
-
 Como gravar chamadas e fazer com que a IA escreva um resumo da conversa com o cliente para guardar no CRM.
 
 ## Solução paga:
@@ -27,5 +24,13 @@ Sugestões:
     - *ou outro*
  3. Copia transcrição da gravação gerada no site
  4. Envia a transcrição ao chatGPT com a instrução:
-    * *"Esta é a transcrição de uma chamada que tive com um cliente. Por favor, faz um resumo com a informação importante para eu colocar no CRM."*
+
+```
+Bom dia. Eu sou consultor imobiliário e fiz agora uma chamada telefónica com um cliente. Esta é a transcrição da chamada que tive com o cliente. 
+[Substituir pela transcrição]
+
+Informações importantes podem ser: Nome do Cliente; se ficou alguma reunião agendada, para quando e qual a finalidade dessa reunião; questões e dúvidas que ficámos de responder ao cliente; visitas marcadas, onde e quando; o que prometi que ia fazer depois da chamada (enviar e-mail, contactar alguém, etc.), entre outras que consideres relevantes.
+
+Por favor, faz um resumo com a informação importante para eu colocar no CRM.
+```
 

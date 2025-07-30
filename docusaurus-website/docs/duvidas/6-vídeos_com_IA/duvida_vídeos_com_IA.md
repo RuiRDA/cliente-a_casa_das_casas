@@ -1,8 +1,6 @@
 # 6 - Vídeos com IA
 
 
-**Dúvida:**
-
 É possível passar imagens de casas para a IA e obter algum tipo de vídeo?
 Se sim, qual o prompt para o ChatGPT ou quais outras ferramentas utilizar?
 

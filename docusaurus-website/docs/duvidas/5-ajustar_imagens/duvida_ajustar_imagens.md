@@ -1,7 +1,5 @@
 # 5 - Ajustar as fotografias dos imóveis com IA.
 
-**Dúvida:**
-
 
 Prompt para o ChatGPT ou outro site ou IA que automaticamente ajusta o brilho, cores e contraste das imagens, tal como no exemplo:
 

@@ -1,14 +1,11 @@
 
 
-# 9 - Escrever emails com a resposta do Crédito
+# 9 - Escrever emails com a resposta da Aprovação de Crédito
 
-*Área dos Financiamentos*
-
-Intermediação de crédito 
+*Área dos Financiamentos* - Intermediação de crédito 
 
 
-
-É pretendido utilizar a IA para gerar modelos de e-mail para diversas situações relacionadas com respostas de crédito, incluindo e-mails de aprovação bancária ou recusa de financiamento do crédito.
+Queremos utilizar a IA para gerar modelos de e-mail para diversas situações relacionadas com respostas de crédito, incluindo e-mails de aprovação bancária ou recusa de financiamento do crédito.
 
 O objetivo é automatizar a criação destes e-mails.
 
@@ -43,7 +40,7 @@ Lamentamos o sucedido e colocamo-nos à disposição para esclarecer qualquer d�
 
 
 ``` markdown
-Atua como um assistente especializado em intermediação de crédito e comunicação profissional com clientes.
+Bom dia. Atua como um assistente especializado em intermediação de crédito e comunicação profissional com clientes.
 
 O objetivo é gerar automaticamente **e-mails claros, empáticos e profissionais** para diferentes respostas de crédito, em nome de um intermediário de crédito.
 
@@ -52,6 +49,7 @@ Com base na situação descrita abaixo, escreve um e-mail profissional e bem est
 
 O e-mail deve:
 - Ter um **tom cordial, humano e profissional**
+- Estar livre de qualquer emoji
 - Refletir a situação com clareza (ex: aprovação parcial, recusa, aprovação total, pedido de mais documentação, etc.)
 - Ser personalizável (ex: nome do cliente, valor de financiamento, banco, objetivo do crédito)
 - Ser assinado em nome de um consultor de crédito
@@ -77,13 +75,10 @@ Lamentamos o sucedido e colocamo-nos à disposição para esclarecer qualquer d�
 
 
 ## Situação atual:
-[INSERIR AQUI a descrição do caso — exemplos:
-- “Pedido de crédito para habitação própria permanente, valor 280.000€, não aprovado por nenhum dos bancos contactados.”
-- “Aprovação de crédito por parte do banco X, com spread de 1,1%, para financiamento de 90% do imóvel.” 
-- “Falta de documentos para prosseguir com análise de crédito junto do banco Y.”]
+[_____INSERIR AQUI A DESCRIÇÃO DO CASO - exemplos: “Pedido de crédito para habitação própria permanente, valor 280.000€, não aprovado por nenhum dos bancos contactados.”, ou “Aprovação de crédito por parte do banco X, com spread de 1,1%, para financiamento de 90% do imóvel.”, ou até “Falta de documentos para prosseguir com análise de crédito junto do banco Y._____”]
 
 ## Instruções:
-- O e-mail deve começar com uma saudação formal e o nome do cliente (ex: “Boa tarde João,”).
+- O e-mail deve começar com uma saudação formal e o nome do cliente (ex: “Boa tarde, João.”).
 - Explica a situação de forma transparente mas empática.
 - Se for uma recusa, evita linguagem dura. Oferece alternativas ou apoio.
 - Se for uma aprovação, menciona as condições principais (valor, entidade, condições relevantes).

@@ -2,7 +2,6 @@
 # 8 - Saber número de transações feitas
 
 
-**Dúvida:**
 
 Qual é o número de transações feito por mês aqui na zona? (Tem no INE, mas às vezes é pago).
 
@@ -16,7 +15,7 @@ Melhor prompt ou ferramenta para tentar encontrar esta informação, o mais atua
 
 
 ``` markdown
-Atua como um assistente de pesquisa especializado em dados do setor imobiliário em Portugal.
+Bom dia. Atua como um assistente de pesquisa especializado em dados do setor imobiliário em Portugal.
 
 O meu objetivo é saber **quantas transações imobiliárias foram realizadas por mês** numa **região geográfica específica** de Portugal.
 
