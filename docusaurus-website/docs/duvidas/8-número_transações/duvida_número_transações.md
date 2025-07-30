@@ -1,5 +1,5 @@
 
-# 10 - Saber número de transações feitas
+# 8 - Saber número de transações feitas
 
 
 **Dúvida:**

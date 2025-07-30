@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'A Casa das Casas - Esclarecimentos de IA',
+  title: 'Grupo das Casas - Esclarecimentos de IA',
   tagline: 'Esclarecimentos sobre o uso de Inteligência Artificial',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ebenai.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -67,9 +67,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/ebenai.png',
       navbar: {
-        title: 'Eben AI Solutions',
+        title: 'Grupo das Casas',
         logo: {
-          alt: 'Eben AI Solutions Logo',
+          alt: 'Eben AI Logo',
           src: 'img/ebenai.png',
         },
         items: [
@@ -109,6 +109,14 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      themeConfig: {
+  colorMode: {
+    defaultMode: 'dark',
+    disableSwitch: true,
+    respectPrefersColorScheme: false,
+  },
+  // ... other config options
+}
     }),
 };
 

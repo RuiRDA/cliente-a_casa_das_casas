@@ -1,77 +1,23 @@
 # Dúvidas do Grupo das Casas
 
-
-| Tarefa | Estado |
-|---|---|
-| 1 - Branqueamento de capitais | ✅ concluído |
-| 2 - Qual é a melhor forma de questionar o chat sobre questões de legislação. | 🔍 feito e a aguardar revisão |
-| 3 - Escalas de trabalho | 🔍 feito e a aguardar revisão |
-| 5 - Gravar, transcrever e resumir chamadas com IA | 🔍 feito e a aguardar revisão  |
-| 6 - Procurar um programa de IA que ajuste as fotografias dos imóveis. | 🔍 feito e a aguardar revisão |
-| 7 - Vídeos com IA | 🔍 feito e a aguardar revisão |
-| 8 - Pesquisa de Mercado | 🔍 feito e a aguardar revisão |
-| 10 - Saber número de transações feitas | 🔍 feito e a aguardar revisão |
-| 11 - Escrever emails com a resposta do Crédito | 🔍 feito e a aguardar revisão |
-
-*A Casa das Casas* 
-
-# Dúvidas:
-
-### 1 - Branqueamento de capitais
-
-[Dúvida de branqueamento de capitais](1-branqueamento_de_capitais/duvida_branqueamento_de_capitais.md)
-
----
-
-### 2 - Questões de legislação
-
-[Duvida de questões de legislação](2-questões_de_legislação/duvida_questões_de_legislação.md)
-
----
-
-### 3 - Escalas de trabalho 
-
-[Dúvida das Escalas de trabalho](3-escala_semanal/duvida_escala_semanal.md)
-
----
+<img src="/cliente-a_casa_das_casas/img/Logo-grupo-das-casas.png" width="200"/>
 
 
-### 5 - Gravar, transcrever e resumir chamadas com IA
-
-[Dúvida de resumir chamadas](5-resumir_chamadas/duvida_resumir_chamadas.md)
-
----
-
-### 6 - Fotografias dos imóveis.
-
-[Dúvida de ajustar imagens](6-ajustar_imagens/duvida_ajustar_imagens.md)
-
----
-
-### 7 - Vídeos com IA
-
-[Dúvida de vídeos com IA](7-vídeos_com_IA/duvida_vídeos_com_IA.md)
-
----
-
-### 8 - Pesquisa de Mercado
-
-[Dúvida de pesquisa de mercado](8-pesquisa_de_mercado/duvida_pesquisa_de_mercado.md)
-
----
-
-
-### 10 - Saber número de transações feitas
-
-[Dúvida de número transações](10-número_transações/duvida_número_transações.md)
-
----
-
-### 11 - Escrever emails com a resposta do Crédito
-
-[Dúvida de emails crédito](11-emails_crédito/duvida_emails_crédito.md)
-
----
+### Esta página contém:
+- respostas às dúvidas de cada departamento
+- Prompts preparados para serem aplicados aos casos em concreto e respetivas instruções de utilização
+- Listas de outras ferramentas de IA para algumas utilizações específicas
 
 
 
+## Índice de Dúvidas
+
+1.  [Branqueamento de capitais](1-branqueamento_de_capitais/duvida_branqueamento_de_capitais.md)
+2.  [Qual é a melhor forma de questionar o chat sobre questões de legislação](2-questões_de_legislação/duvida_questões_de_legislação.md)
+3.  [Escalas de trabalho](3-escala_semanal/duvida_escala_semanal.md)
+4.  [Gravar, transcrever e resumir chamadas com IA](4-resumir_chamadas/duvida_resumir_chamadas.md)
+5.  [IA que ajuste as fotografias dos imóveis](5-ajustar_imagens/duvida_ajustar_imagens.md)
+6.  [Vídeos com IA](6-vídeos_com_IA/duvida_vídeos_com_IA.md)
+7.  [Pesquisa de Mercado](7-pesquisa_de_mercado/duvida_pesquisa_de_mercado.md)
+8.  [Saber número de transações feitas](8-número_transações/duvida_número_transações.md)
+9.  [Escrever emails com a resposta do Crédito](9-emails_crédito/duvida_emails_crédito.md)

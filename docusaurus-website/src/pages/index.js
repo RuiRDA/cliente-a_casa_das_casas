@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Este website serve como um centro de recursos e esclarecimentos sobre a implementação e utilização de ferramentas de Inteligência Artificial no Grupo das Casas. Aqui encontrará guias, tutoriais e respostas às dúvidas mais frequentes para ajudar a nossa equipa a tirar o máximo partido da IA.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
