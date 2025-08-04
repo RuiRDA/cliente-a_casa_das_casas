@@ -1,0 +1,36 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.config-panel {
+    scrollbar-width: thin;
+    scrollbar-color: #4a5568 #2d3748;
+}
+.calendar-day.off { background-color: #fca5a5; color: #7f1d1d; }
+.calendar-day.vacation { background-color: #93c5fd; color: #1e3a8a; }
+.calendar-day.selected { border: 2px solid #2563eb; }
+.loader {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+input[type="color"] {
+    -webkit-appearance: none;
+    border: none;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+    padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
