@@ -1,4 +1,4 @@
-## 2.1. Legislação no chatGPT
+# 2.1. Legislação no chatGPT
 
 
 Vamos imaginar que queremos saber que área de determinado terreno pode ficar isenta do direito de preferência.
