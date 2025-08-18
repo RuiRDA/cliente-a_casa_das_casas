@@ -16,8 +16,8 @@
 
 
 
-*Atenção: O ChatGPT não consegue, de todo, executar esta tarefa de forma minimamente satisfatória, uma vez que é uma tarefa demasiado complexa, são demasiados trabalhadores, combinações e instruções. O ideal é fazer um programa informático tradicional sem Inteligência Artificial (e, dessa forma, sem liberdade para errar nas instruções), que faz as escalas sem os todos os erros apresentados pelo ChatGPT. Esse programa iria testar milhares de possibilidades de combinações e iria escolher qual a melhor escala segundo os critérios e instruções pretendidos. Em todo o caso, aqui está a melhor e mais otimizada versão do prompt que conseguimos desenvolver para testar no ChatGPT, tendo sempre em consideração as suas limitações na realização da tarefa em questão.*
 
+*Atenção: O ChatGPT não executa esta tarefa com excelência nem com exatidão, uma vez que falha bastante no processo de combinação das folgas e na distribuição dos trabalhadores ao longo da semana. Ainda assim, aqui está a melhor e mais otimizada versão do prompt para a tarefa em questão, devendo ter sempre em consideração as limitações do ChatGPT ao realizar a tarefa. Para obter melhores resultados, experimentar fazer vários pedidos para ver se algum vai de encontro com os reultados pretendidos.*
 
 
 
@@ -93,5 +93,3 @@ Antes de responderes, pensa profundamente nesta tarefa e nas regras obrigatória
 
 *Este prompt pode ser utilizado em qualquer assistente de IA, sendo que se for utilizado no [Gemini](https://gemini.google.com/app) é possível exportar a tabela para um Google Sheets.*
 
-
-*Atenção: O ChatGPT não executa esta tarefa com excelência nem com exatidão, uma vez que falha bastante no processo de combinação das folgas e na distribuição dos trabalhadores ao longo da semana. Ainda assim, aqui está a melhor e mais otimizada versão do prompt para a tarefa em questão, devendo ter sempre em consideração as limitações do ChatGPT ao realizar a tarefa. Para obter melhores resultados, experimentar fazer vários pedidos para ver se algum vai de encontro com os reultados pretendidos.*

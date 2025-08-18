@@ -45,7 +45,7 @@ Para fazer a escala, temos de ter em conta os seguintes critérios:
 
 5º - Depois de tudo isso preenchido, selecionar a ferramenta "pensamento profundo" (se disponível) e clicar em "enviar" ou na tecla "enter". 
 
-
+*Atenção: O ChatGPT não consegue, de todo, executar esta tarefa de forma minimamente satisfatória, uma vez que é uma tarefa demasiado complexa, são demasiados trabalhadores, combinações e instruções. O ideal é fazer um programa informático tradicional sem Inteligência Artificial (e, dessa forma, sem liberdade para errar nas instruções), que faz as escalas sem os todos os erros apresentados pelo ChatGPT. Esse programa iria testar milhares de possibilidades de combinações e iria escolher qual a melhor escala segundo os critérios e instruções pretendidos. Em todo o caso, aqui está a melhor e mais otimizada versão do prompt que conseguimos desenvolver para testar no ChatGPT, tendo sempre em consideração as suas limitações na realização da tarefa em questão.*
 
 
 **Prompt Escala Mensal dos Comerciais:**
@@ -146,4 +146,3 @@ Após a lista, apresenta um pequeno **Resumo de Critérios**, onde explicas:
  
 
 
-*Atenção: O ChatGPT não consegue, de todo, executar esta tarefa de forma minimamente satisfatória, uma vez que é uma tarefa demasiado complexa, são demasiados trabalhadores, combinações e instruções. O ideal é fazer um programa informático tradicional sem Inteligência Artificial (e, dessa forma, sem liberdade para errar nas instruções), que faz as escalas sem os todos os erros apresentados pelo ChatGPT. Esse programa iria testar milhares de possibilidades de combinações e iria escolher qual a melhor escala segundo os critérios e instruções pretendidos. Em todo o caso, aqui está a melhor e mais otimizada versão do prompt que conseguimos desenvolver para testar no ChatGPT, tendo sempre em consideração as suas limitações na realização da tarefa em questão.*
