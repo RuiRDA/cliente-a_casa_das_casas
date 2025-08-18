@@ -13,10 +13,13 @@
 ### Índice de Dúvidas e Pedidos
 
 1.  [Branqueamento de capitais](1-branqueamento_de_capitais/duvida_branqueamento_de_capitais.md)
-2.  Qual é a melhor forma de questionar o ChatGPT sobre questões de legislação
+2.  ChatGPT para questões legais
     - [2.1. Legislação no ChatGPT](2-questões_de_legislação/abordar_questoes_legais_com_o_ChatGPT.md)
     - [2.2. Como pedir minutas](2-questões_de_legislação/como_pedir_minutas.md)
-3.  [Escalas de trabalho](3-escala_semanal/duvida_escala_semanal.md)
+3.  Escalas de trabalho
+   - [3.1. Escala dos comerciais](3-escala_semanal/escala_comercial.md)
+    - [3.2. Escala da receção](3-escala_semanal/escala_rececao.md)
+ 
 4.  [Gravar, transcrever e resumir chamadas com IA](4-resumir_chamadas/duvida_resumir_chamadas.md)
 5.  [IA que ajuste as fotografias dos imóveis](5-ajustar_imagens/duvida_ajustar_imagens.md)
 6.  [Vídeos com IA](6-vídeos_com_IA/duvida_vídeos_com_IA.md)

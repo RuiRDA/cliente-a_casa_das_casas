@@ -53,7 +53,7 @@ Antes de gerar a escala, deves **pensar cuidadosamente** sobre os seguintes pont
 -Ninguém faz serviços nem prevenção 2 dias antes dos dias de folga (exemplo: se a Catarina está de folga sábado e domingo, não pode fazer prevenção nem serviço na sexta nem na quinta). 
 -Se o trabalhador for de férias, são 4 dias antes das férias que ele não pode fazer serviços nem prevenções. 
 -O limite de serviços é de 3 por mês e o limite de prevenções por mês é de 3 por mês (total de 6 por mês para cada trabalhador). O ideal é ter 2 serviços e 2 prevenções por mês cada trabalhador. (Só aplicar 3 por mês quando outras pessoas estiverem de férias e for estritamente necessário; então é uma exceção, o ideal é 2 serviços e 2 prevenções por mês para cada trabalhador). 
--A Catarina não faz serviços nem prevenções ao fim de semana, e o ideal é ela fazer 1 serviço e 1 prevenção por mês, e no limite máximo 2 serviços e 2 prevenções por mês. 
+-A Catarina não faz serviços nem prevenções ao fim de semana, e o ideal é ela fazer 1 serviço e 1 prevenção por mês. 
 -O Venâncio tem de fazer sempre serviços e prevenções às terças-feiras. 
 -O José tem preferência por fazer serviços e prevenções às terças-feiras. 
 -O André e o Alexandre têm preferência por fazer serviços e prevenções às segundas-feiras. 
@@ -73,16 +73,6 @@ Antes de gerar a escala, deves **pensar cuidadosamente** sobre os seguintes pont
     - `[(DD)] [Nome] `
 
 
-Por favor, gera a escala mensal, criando a lista dos dias do mês e indicando para cada dia qual o trabalhador que vai fazer o trabalho de serviço, e qual o trabalhador que vai fazer o trabalho de prevenção. Para isso, gera uma única tabela para o mês inteiro, em markdown, utilizando o seguinte template de formato:
-
-
-- **Formato de saída**  
-  - Deve cobrir **todos os dias** de agosto/2025, sem quaisquer vagas.
-  - Começa SEMPRE no dia 1 do mês.
-  - Faz sempre a escala para o mês COMPLETO!  
-  - Cada celula:  
-    - `[(DD)] [Nome] 
-    
 | Semana | Tarefa | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
 |-----------|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | semana 1| Serviço | | ... | ... | ... | ... | ... | ... | … |
@@ -91,7 +81,7 @@ Por favor, gera a escala mensal, criando a lista dos dias do mês e indicando pa
 | semana 2| Prevenção | ... | ... | ... | ... | ... | ... | … |
 …
 
-
+Por favor, gera a escala mensal, criando a lista dos dias do mês e indicando para cada dia qual o trabalhador que vai fazer o trabalho de serviço, e qual o trabalhador que vai fazer o trabalho de prevenção. Para isso, gera uma única tabela para o mês inteiro, em markdown, utilizando o seguinte template de formato:
 
 
 Antes de responderes, pensa profundamente nesta tarefa e nas regras obrigatórias e preferências que te dei. Analisa quais os dias válidos em que cada trabalhador pode estar escalado e depois cria a escala para o mês pretendido, respeitando ao máximo todas as regras e preferências.
